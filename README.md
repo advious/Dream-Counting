@@ -19,7 +19,7 @@ Consider the sequence 129..137: 129, 130, 131, 132, 133, 134, 135,
 136, 137. Count the digits to find:
 
    1x0      1x5
-  10x1      1x6
+   10x1      1x6
    2x2      1x7
    9x3      0x8
    1x4      1x9
