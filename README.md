@@ -11,6 +11,7 @@ Given two integers M and N (1 <= M <= N <= 2,000,000,000 and N - M <= 500,000), 
 ### Example:
 
 Consider the sequence 129...137: 129, 130, 131, 132, 133, 134, 135, 136, 137. Count the digits to find:
+
 ```
 1x0      1x5
 10x1      1x6
@@ -18,22 +19,27 @@ Consider the sequence 129...137: 129, 130, 131, 132, 133, 134, 135, 136, 137. Co
 9x3      0x8
 1x4      1x9
 ```
+
 ### Input Format:
 
 * Line 1: Two space-separated integers: M and N
 
 ### Sample Input:
+
 ```
 129 137
 ```
+
 ### Output Format:
 
 * Line 1: Ten space-separated integers that are the counts of the number of each digit (0..9) that appears while counting through the sequence.
 
 ### Sample Output:
+
 ```
 1 10 2 9 1 1 1 1 0 1
 ```
+
 ### Output Details:
 
 One zero, ten ones, etc.
