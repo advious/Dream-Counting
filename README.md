@@ -43,3 +43,5 @@ Consider the sequence 129...137: 129, 130, 131, 132, 133, 134, 135, 136, 137. Co
 ### Output Details:
 
 One zero, ten ones, etc.
+
+### Demo the program by running [this file](https://github.com/advious/Dream-Counting/blob/main/DreamCounting.java).
