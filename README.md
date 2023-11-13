@@ -1,6 +1,6 @@
 # Dream-Counting
 
-An introductory USACO Bronze-level problem about a mathematically gifted cow named Bessie who has insomnia.
+An introductory USACO Bronze-level problem about a mathematically gifted cow named Bessie with insomnia.
 
 ## Description:
 
